@@ -1,0 +1,58 @@
+
+.hidden{
+  display: none;
+}
+.services{
+background-color: white;
+border: 1px solid  #f8f9fa;
+}
+.services:hover{
+  box-shadow:1px 10px 10px #ddd;
+}
+
+.team{
+background-color: white;
+border: 1px solid  #f8f9fa;
+}
+.team:hover{
+  box-shadow:1px 5px 5px #ddd;
+}
+.portfolio:hover{
+    box-shadow:1px 5px 5px #ddd;
+  }
+  /*.portfolio-item:hover{
+    box-shadow:1px 5px 5px #ddd;
+  }*/
+
+.divider {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 100%;
+  border:1px solid white;
+}
+
+@media (min-width: 576px) {
+  .divider {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .divider {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .divider {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .divider {
+    max-width: 1140px;
+  }
+}
