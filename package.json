@@ -1,8 +1,8 @@
 {
-  "title": "Agency",
-  "name": "startbootstrap-agency",
+  "title": "KM",
+  "name": "KM",
   "version": "4.0.0-alpha",
-  "description": "Agency is a one page HTML theme for Bootstrap.",
+  "description": "KM is a one page HTML theme for Bootstrap.",
   "keywords": [
     "css",
     "sass",
@@ -11,19 +11,14 @@
     "theme",
     "template"
   ],
-  "homepage": "http://startbootstrap.com/template-overviews/agency",
-  "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-    "email": "feedback@startbootstrap.com"
-  },
   "license": "MIT",
   "author": "Start Bootstrap",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "Brighton Ngema (http://brightonngema.net23.net/)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+    "url": "https://github.com/BrightonNgema/KM.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
